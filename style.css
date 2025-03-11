@@ -1,0 +1,73 @@
+
+#logo {
+    height: 3em;
+    align-items: center;
+    margin-left: 590px;
+}
+
+
+span {
+    font-weight: bold;
+}
+
+
+#sotto-immagine {
+    border-top: 2px solid #f3d191;
+    display: flex;
+    justify-content: center;
+    margin-top: 1em;
+    background-color: #ffe0004d;
+    padding: 2px;
+}
+
+#titolone {
+    margin-top: 60px;
+    display: flex;
+    justify-content: center;
+}
+
+.paragrafo {
+    display: flex;
+    justify-content: center;
+}
+
+
+#tagliere {
+    height: 100%;
+    width: 23em;
+    margin-left: 550px;
+}
+
+.grigio {
+    color: gray;
+    display: flex;
+    justify-content: center;
+}
+
+#pre-ingredienti {
+    color: red;
+    display: flex;
+    flex-direction: column;
+    margin-left: 400px;
+    border-left: 3px solid orange;
+    height: auto;
+}
+
+hr {
+   height: 1px;
+    background-color: aquamarine ;
+}
+
+#ingredienti {
+    margin-right: 400px;
+    margin-left: 400px;
+}
+
+#metodo {
+    margin-right: 400px;
+    margin-left: 400px;
+}
+
+.grassetto {
+    font-weight: bold;
+}
